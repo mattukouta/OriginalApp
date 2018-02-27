@@ -1,0 +1,11 @@
+#Internal package file, do not edit.
+#Mon Feb 26 16:20:18 JST 2018
+1.base=/Users/kouta/Desktop/kotlin/app/src/main/original/app/build/intermediates/transforms/dexMerger/debug/0
+0.baseType=DIRECTORY
+1.baseType=DIRECTORY
+count=2
+1.set=DEX
+0.path=json/lottiefiles.com - Favorite Star.json
+0.set=ASSET
+0.base=/Users/kouta/Desktop/kotlin/app/src/main/original/app/build/intermediates/assets/debug
+1.path=classes.dex
