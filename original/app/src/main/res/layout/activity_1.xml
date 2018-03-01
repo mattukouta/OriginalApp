@@ -6,11 +6,27 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent">
 
-    <TextView
-        android:id="@+id/textView"
-        android:layout_width="fill_parent"
+    <Button
+        android:id="@+id/music1"
+        android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="画面２"
+        android:layout_marginEnd="124dp"
+        android:layout_marginStart="124dp"
+        android:layout_marginTop="84dp"
+        android:text="Music1"
+        app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
+
+    <Button
+        android:id="@+id/music2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginEnd="124dp"
+        android:layout_marginStart="124dp"
+        android:layout_marginTop="84dp"
+        android:text="Music2"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/music1" />
 </android.support.constraint.ConstraintLayout>
