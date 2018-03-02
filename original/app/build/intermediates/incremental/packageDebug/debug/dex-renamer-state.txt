@@ -1,4 +1,4 @@
-#Thu Mar 01 23:55:39 JST 2018
+#Fri Mar 02 18:31:12 JST 2018
 base.0=/Users/kouta/Desktop/kotlin/app/src/main/original/app/build/intermediates/transforms/dexMerger/debug/0
 path.0=classes.dex
 renamed.0=classes.dex
