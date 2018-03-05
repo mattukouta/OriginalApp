@@ -11,10 +11,14 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
 
-        val Music=findViewById(R.id.music) as Button
+        val Music = findViewById(R.id.music) as Button
+        val Movie = findViewById(R.id.movie) as Button
 
-        Music.setOnClickListener{
+        Music.setOnClickListener {
             startActivity(Intent(this, Main1::class.java))
+        }
+        Movie.setOnClickListener {
+            startActivity(Intent(this, Main1_1::class.java))
         }
     }
 

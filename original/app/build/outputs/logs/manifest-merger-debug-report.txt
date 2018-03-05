@@ -1,12 +1,17 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /Users/kouta/Desktop/kotlin/app/src/main/original/app/src/main/AndroidManifest.xml:2:1-24:12
-INJECTED from /Users/kouta/Desktop/kotlin/app/src/main/original/app/src/main/AndroidManifest.xml:2:1-24:12
-INJECTED from /Users/kouta/Desktop/kotlin/app/src/main/original/app/src/main/AndroidManifest.xml:2:1-24:12
-INJECTED from /Users/kouta/Desktop/kotlin/app/src/main/original/app/src/main/AndroidManifest.xml:2:1-24:12
-MERGED from [com.airbnb.android:lottie:1.5.3] /Users/kouta/.gradle/caches/transforms-1/files-1.1/lottie-1.5.3.aar/f29825b2fb12f4110a85a2267ecebaa1/AndroidManifest.xml:2:1-12:12
+ADDED from /Users/kouta/Desktop/kotlin/app/src/main/original/app/src/main/AndroidManifest.xml:2:1-25:12
+INJECTED from /Users/kouta/Desktop/kotlin/app/src/main/original/app/src/main/AndroidManifest.xml:2:1-25:12
+INJECTED from /Users/kouta/Desktop/kotlin/app/src/main/original/app/src/main/AndroidManifest.xml:2:1-25:12
+INJECTED from /Users/kouta/Desktop/kotlin/app/src/main/original/app/src/main/AndroidManifest.xml:2:1-25:12
+MERGED from [com.google.android.exoplayer:exoplayer:2.6.1] /Users/kouta/.gradle/caches/transforms-1/files-1.1/exoplayer-2.6.1.aar/d1f98f488668070e395bb651cb52bc61/AndroidManifest.xml:17:1-25:12
 MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/kouta/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/ec9843c96a640aeacfd1db7de12ec919/AndroidManifest.xml:17:1-31:12
 MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/kouta/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/82ebf2bbe24fb142532bdfe81c9ef730/AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.android.exoplayer:exoplayer-dash:2.6.1] /Users/kouta/.gradle/caches/transforms-1/files-1.1/exoplayer-dash-2.6.1.aar/ddcb70c5d5b48d5c7269bb0ccd9db9bc/AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.android.exoplayer:exoplayer-hls:2.6.1] /Users/kouta/.gradle/caches/transforms-1/files-1.1/exoplayer-hls-2.6.1.aar/43e34a47a0083ae7e3d33ffcbec754d3/AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.android.exoplayer:exoplayer-smoothstreaming:2.6.1] /Users/kouta/.gradle/caches/transforms-1/files-1.1/exoplayer-smoothstreaming-2.6.1.aar/a5f52084016e97b27dc10736e602b60a/AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.android.exoplayer:exoplayer-ui:2.6.1] /Users/kouta/.gradle/caches/transforms-1/files-1.1/exoplayer-ui-2.6.1.aar/33cb5a5f85eacaff72294fed9c90a3f7/AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.android.exoplayer:exoplayer-core:2.6.1] /Users/kouta/.gradle/caches/transforms-1/files-1.1/exoplayer-core-2.6.1.aar/28584079e4a0d7ebd8a377240cb4a1f2/AndroidManifest.xml:17:1-25:12
 MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/kouta/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/0c74dd8fc51e4422b837910ad1a0cce1/AndroidManifest.xml:17:1-28:12
 MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/kouta/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/7919ca62395d3b500d2140b6c0927540/AndroidManifest.xml:17:1-28:12
 MERGED from [com.android.support:support-v4:26.1.0] /Users/kouta/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/95c67859db0bb4f607a3b3b8dd4bc5ac/AndroidManifest.xml:17:1-31:12
@@ -16,27 +21,25 @@ MERGED from [com.android.support:support-core-utils:26.1.0] /Users/kouta/.gradle
 MERGED from [com.android.support:support-core-ui:26.1.0] /Users/kouta/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/aeb4b1427da9e3288078894581830061/AndroidManifest.xml:17:1-31:12
 MERGED from [com.android.support:support-compat:26.1.0] /Users/kouta/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/01349149b5974d37e886d9f0836554ee/AndroidManifest.xml:17:1-31:12
 MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/kouta/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/0d501c02c753fb9bc907fb0e5abfcb97/AndroidManifest.xml:17:1-30:12
-INJECTED from /Users/kouta/Desktop/kotlin/app/src/main/original/app/src/main/AndroidManifest.xml:2:1-24:12
-INJECTED from /Users/kouta/Desktop/kotlin/app/src/main/original/app/src/main/AndroidManifest.xml:2:1-24:12
-INJECTED from /Users/kouta/Desktop/kotlin/app/src/main/original/app/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /Users/kouta/Desktop/kotlin/app/src/main/original/app/src/main/AndroidManifest.xml:2:1-25:12
+INJECTED from /Users/kouta/Desktop/kotlin/app/src/main/original/app/src/main/AndroidManifest.xml:2:1-25:12
+INJECTED from /Users/kouta/Desktop/kotlin/app/src/main/original/app/src/main/AndroidManifest.xml:2:1-25:12
 	package
 		ADDED from /Users/kouta/Desktop/kotlin/app/src/main/original/app/src/main/AndroidManifest.xml:3:5-36
 		INJECTED from /Users/kouta/Desktop/kotlin/app/src/main/original/app/src/main/AndroidManifest.xml
 		INJECTED from /Users/kouta/Desktop/kotlin/app/src/main/original/app/src/main/AndroidManifest.xml
 	android:versionName
 		INJECTED from /Users/kouta/Desktop/kotlin/app/src/main/original/app/src/main/AndroidManifest.xml
-		ADDED from /Users/kouta/Desktop/kotlin/app/src/main/original/app/src/main/AndroidManifest.xml:2:1-24:12
+		ADDED from /Users/kouta/Desktop/kotlin/app/src/main/original/app/src/main/AndroidManifest.xml:2:1-25:12
 		INJECTED from /Users/kouta/Desktop/kotlin/app/src/main/original/app/src/main/AndroidManifest.xml
 	android:versionCode
 		INJECTED from /Users/kouta/Desktop/kotlin/app/src/main/original/app/src/main/AndroidManifest.xml
-		ADDED from /Users/kouta/Desktop/kotlin/app/src/main/original/app/src/main/AndroidManifest.xml:2:1-24:12
+		ADDED from /Users/kouta/Desktop/kotlin/app/src/main/original/app/src/main/AndroidManifest.xml:2:1-25:12
 		INJECTED from /Users/kouta/Desktop/kotlin/app/src/main/original/app/src/main/AndroidManifest.xml
 	xmlns:android
 		ADDED from /Users/kouta/Desktop/kotlin/app/src/main/original/app/src/main/AndroidManifest.xml:2:11-69
 application
-ADDED from /Users/kouta/Desktop/kotlin/app/src/main/original/app/src/main/AndroidManifest.xml:5:5-22:19
-MERGED from [com.airbnb.android:lottie:1.5.3] /Users/kouta/.gradle/caches/transforms-1/files-1.1/lottie-1.5.3.aar/f29825b2fb12f4110a85a2267ecebaa1/AndroidManifest.xml:10:5-20
-MERGED from [com.airbnb.android:lottie:1.5.3] /Users/kouta/.gradle/caches/transforms-1/files-1.1/lottie-1.5.3.aar/f29825b2fb12f4110a85a2267ecebaa1/AndroidManifest.xml:10:5-20
+ADDED from /Users/kouta/Desktop/kotlin/app/src/main/original/app/src/main/AndroidManifest.xml:5:5-23:19
 MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/kouta/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/ec9843c96a640aeacfd1db7de12ec919/AndroidManifest.xml:25:5-29:19
 MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/kouta/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/ec9843c96a640aeacfd1db7de12ec919/AndroidManifest.xml:25:5-29:19
 MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/kouta/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/82ebf2bbe24fb142532bdfe81c9ef730/AndroidManifest.xml:9:5-20
@@ -89,20 +92,34 @@ activity#sample.kouta.original.Main1
 ADDED from /Users/kouta/Desktop/kotlin/app/src/main/original/app/src/main/AndroidManifest.xml:19:9-43
 	android:name
 		ADDED from /Users/kouta/Desktop/kotlin/app/src/main/original/app/src/main/AndroidManifest.xml:19:19-40
-activity#sample.kouta.original.Main2
-ADDED from /Users/kouta/Desktop/kotlin/app/src/main/original/app/src/main/AndroidManifest.xml:20:9-43
+activity#sample.kouta.original.Main1_1
+ADDED from /Users/kouta/Desktop/kotlin/app/src/main/original/app/src/main/AndroidManifest.xml:20:9-45
 	android:name
-		ADDED from /Users/kouta/Desktop/kotlin/app/src/main/original/app/src/main/AndroidManifest.xml:20:19-40
+		ADDED from /Users/kouta/Desktop/kotlin/app/src/main/original/app/src/main/AndroidManifest.xml:20:19-42
+activity#sample.kouta.original.Main2
+ADDED from /Users/kouta/Desktop/kotlin/app/src/main/original/app/src/main/AndroidManifest.xml:21:9-43
+	android:name
+		ADDED from /Users/kouta/Desktop/kotlin/app/src/main/original/app/src/main/AndroidManifest.xml:21:19-40
 uses-sdk
 INJECTED from /Users/kouta/Desktop/kotlin/app/src/main/original/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from /Users/kouta/Desktop/kotlin/app/src/main/original/app/src/main/AndroidManifest.xml
 INJECTED from /Users/kouta/Desktop/kotlin/app/src/main/original/app/src/main/AndroidManifest.xml
-MERGED from [com.airbnb.android:lottie:1.5.3] /Users/kouta/.gradle/caches/transforms-1/files-1.1/lottie-1.5.3.aar/f29825b2fb12f4110a85a2267ecebaa1/AndroidManifest.xml:6:5-8:41
-MERGED from [com.airbnb.android:lottie:1.5.3] /Users/kouta/.gradle/caches/transforms-1/files-1.1/lottie-1.5.3.aar/f29825b2fb12f4110a85a2267ecebaa1/AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.android.exoplayer:exoplayer:2.6.1] /Users/kouta/.gradle/caches/transforms-1/files-1.1/exoplayer-2.6.1.aar/d1f98f488668070e395bb651cb52bc61/AndroidManifest.xml:21:5-23:41
+MERGED from [com.google.android.exoplayer:exoplayer:2.6.1] /Users/kouta/.gradle/caches/transforms-1/files-1.1/exoplayer-2.6.1.aar/d1f98f488668070e395bb651cb52bc61/AndroidManifest.xml:21:5-23:41
 MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/kouta/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/ec9843c96a640aeacfd1db7de12ec919/AndroidManifest.xml:21:5-23:78
 MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/kouta/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/ec9843c96a640aeacfd1db7de12ec919/AndroidManifest.xml:21:5-23:78
 MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/kouta/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/82ebf2bbe24fb142532bdfe81c9ef730/AndroidManifest.xml:5:5-7:41
 MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/kouta/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/82ebf2bbe24fb142532bdfe81c9ef730/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.exoplayer:exoplayer-dash:2.6.1] /Users/kouta/.gradle/caches/transforms-1/files-1.1/exoplayer-dash-2.6.1.aar/ddcb70c5d5b48d5c7269bb0ccd9db9bc/AndroidManifest.xml:21:5-23:41
+MERGED from [com.google.android.exoplayer:exoplayer-dash:2.6.1] /Users/kouta/.gradle/caches/transforms-1/files-1.1/exoplayer-dash-2.6.1.aar/ddcb70c5d5b48d5c7269bb0ccd9db9bc/AndroidManifest.xml:21:5-23:41
+MERGED from [com.google.android.exoplayer:exoplayer-hls:2.6.1] /Users/kouta/.gradle/caches/transforms-1/files-1.1/exoplayer-hls-2.6.1.aar/43e34a47a0083ae7e3d33ffcbec754d3/AndroidManifest.xml:21:5-23:41
+MERGED from [com.google.android.exoplayer:exoplayer-hls:2.6.1] /Users/kouta/.gradle/caches/transforms-1/files-1.1/exoplayer-hls-2.6.1.aar/43e34a47a0083ae7e3d33ffcbec754d3/AndroidManifest.xml:21:5-23:41
+MERGED from [com.google.android.exoplayer:exoplayer-smoothstreaming:2.6.1] /Users/kouta/.gradle/caches/transforms-1/files-1.1/exoplayer-smoothstreaming-2.6.1.aar/a5f52084016e97b27dc10736e602b60a/AndroidManifest.xml:21:5-23:41
+MERGED from [com.google.android.exoplayer:exoplayer-smoothstreaming:2.6.1] /Users/kouta/.gradle/caches/transforms-1/files-1.1/exoplayer-smoothstreaming-2.6.1.aar/a5f52084016e97b27dc10736e602b60a/AndroidManifest.xml:21:5-23:41
+MERGED from [com.google.android.exoplayer:exoplayer-ui:2.6.1] /Users/kouta/.gradle/caches/transforms-1/files-1.1/exoplayer-ui-2.6.1.aar/33cb5a5f85eacaff72294fed9c90a3f7/AndroidManifest.xml:21:5-23:41
+MERGED from [com.google.android.exoplayer:exoplayer-ui:2.6.1] /Users/kouta/.gradle/caches/transforms-1/files-1.1/exoplayer-ui-2.6.1.aar/33cb5a5f85eacaff72294fed9c90a3f7/AndroidManifest.xml:21:5-23:41
+MERGED from [com.google.android.exoplayer:exoplayer-core:2.6.1] /Users/kouta/.gradle/caches/transforms-1/files-1.1/exoplayer-core-2.6.1.aar/28584079e4a0d7ebd8a377240cb4a1f2/AndroidManifest.xml:21:5-23:41
+MERGED from [com.google.android.exoplayer:exoplayer-core:2.6.1] /Users/kouta/.gradle/caches/transforms-1/files-1.1/exoplayer-core-2.6.1.aar/28584079e4a0d7ebd8a377240cb4a1f2/AndroidManifest.xml:21:5-23:41
 MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/kouta/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/0c74dd8fc51e4422b837910ad1a0cce1/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/kouta/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/0c74dd8fc51e4422b837910ad1a0cce1/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/kouta/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/7919ca62395d3b500d2140b6c0927540/AndroidManifest.xml:20:5-44

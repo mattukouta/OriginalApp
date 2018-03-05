@@ -31,5 +31,6 @@ dependencies {
     androidTestImplementation 'com.android.support.test:runner:1.0.1'
     androidTestImplementation 'com.android.support.test.espresso:espresso-core:3.0.1'
 
-    compile 'com.airbnb.android:lottie:1.5.3'
+
+    compile 'com.google.android.exoplayer:exoplayer:2.6.1'
 }

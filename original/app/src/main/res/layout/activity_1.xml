@@ -12,7 +12,7 @@
         android:layout_height="wrap_content"
         android:layout_marginEnd="124dp"
         android:layout_marginStart="124dp"
-        android:layout_marginTop="84dp"
+        android:layout_marginTop="50dp"
         android:text="Music1"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
@@ -24,9 +24,33 @@
         android:layout_height="wrap_content"
         android:layout_marginEnd="124dp"
         android:layout_marginStart="124dp"
-        android:layout_marginTop="84dp"
+        android:layout_marginTop="50dp"
         android:text="Music2"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/music1" />
+
+    <Button
+        android:id="@+id/music3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginEnd="124dp"
+        android:layout_marginStart="124dp"
+        android:layout_marginTop="50dp"
+        android:text="Music3"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/music2" />
+
+    <Button
+        android:id="@+id/back"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginEnd="100dp"
+        android:layout_marginStart="100dp"
+        android:layout_marginTop="50dp"
+        android:text="Back"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/music3" />
 </android.support.constraint.ConstraintLayout>

@@ -6,6 +6,7 @@ import android.os.Bundle
 import android.widget.Button
 import kotlinx.android.synthetic.main.activity_2.*
 import android.media.MediaPlayer
+import android.util.Log
 
 
 class Main2 : AppCompatActivity(){
@@ -15,18 +16,23 @@ class Main2 : AppCompatActivity(){
         setContentView(R.layout.activity_2)
 
         var mp:MediaPlayer?=null
-        var MP=intent.getStringExtra("MUSIC")
-        var sing=""
+        var MP=intent.extras.get("MUSIC")
 
-        if(MP=="1"){
+        var sing="アンダー"
+
+        if(MP.equals(1)){
             mp = MediaPlayer.create(applicationContext, R.raw.under)
-            sing="under"
-        }else if(MP=="2"){
+            sing="アンダー"
+        }else if(MP.equals(2)){
             mp = MediaPlayer.create(applicationContext, R.raw.mythings)
-            sing="mythings"
+            sing="自分のこと"
+        }else if(MP.equals(3)){
+            mp = MediaPlayer.create(applicationContext, R.raw.lastnumber_mp3)
+            sing="Last Number"
         }
 
         textView.text=sing
+
 
         start.setOnClickListener(){
             mp?.start()

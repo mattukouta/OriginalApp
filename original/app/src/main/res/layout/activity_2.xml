@@ -65,6 +65,7 @@
         android:layout_marginBottom="75dp"
         android:layout_marginTop="25dp"
         android:text="TextView"
+        android:textSize="40sp"
         app:layout_constraintBottom_toTopOf="@+id/one_stop"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"

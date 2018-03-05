@@ -8,6 +8,7 @@ import kotlinx.android.synthetic.main.activity_1.*
 import android.media.MediaPlayer
 
 
+
 open class Main1 : AppCompatActivity() {
 
     var mp:MediaPlayer?=null
@@ -29,6 +30,15 @@ open class Main1 : AppCompatActivity() {
          //   mp = MediaPlayer.create(applicationContext, R.raw.mythings)
             intent.putExtra("MUSIC",2)
             startActivity(intent)
+        }
+        music3.setOnClickListener() {
+            //   mp = MediaPlayer.create(applicationContext, R.raw.mythings)
+            intent.putExtra("MUSIC",3)
+            startActivity(intent)
+        }
+        back.setOnClickListener(){
+            mp?.stop()
+            startActivity(Intent(this, MainActivity::class.java))
         }
     }
 

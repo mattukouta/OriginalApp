@@ -25,6 +25,7 @@
             </intent-filter>
         </activity>
         <activity android:name="sample.kouta.original.Main1" />
+        <activity android:name="sample.kouta.original.Main1_1" />
         <activity android:name="sample.kouta.original.Main2" />
 
         <meta-data
