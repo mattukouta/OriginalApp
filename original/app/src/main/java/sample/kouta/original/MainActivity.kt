@@ -15,6 +15,7 @@ class MainActivity : AppCompatActivity() {
 
         val Music = findViewById(R.id.music) as Button
         val Movie = findViewById(R.id.movie) as Button
+        val View = findViewById(R.id.view) as Button
 
         Music.setOnClickListener {
             startActivity(Intent(this, Main1::class.java))
@@ -22,6 +23,10 @@ class MainActivity : AppCompatActivity() {
         Movie.setOnClickListener {
             startActivity(Intent(this, Main1_1::class.java))
         }
+        View.setOnClickListener {
+            startActivity(Intent(this, Main1_2::class.java))
+        }
+
     }
 
 

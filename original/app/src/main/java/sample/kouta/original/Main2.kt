@@ -7,6 +7,7 @@ import android.widget.Button
 import kotlinx.android.synthetic.main.activity_2.*
 import android.media.MediaPlayer
 import android.util.Log
+import android.support.v4.view.ViewPager
 
 
 class Main2 : AppCompatActivity(){

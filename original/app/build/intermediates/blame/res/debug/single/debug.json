@@ -824,6 +824,10 @@
         "source": "/Users/kouta/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/ec9843c96a640aeacfd1db7de12ec919/res/color/abc_hint_foreground_material_dark.xml"
     },
     {
+        "merged": "/Users/kouta/Desktop/kotlin/app/src/main/original/app/build/intermediates/res/merged/debug/layout_item_view_pager.xml.flat",
+        "source": "/Users/kouta/Desktop/kotlin/app/src/main/original/app/src/main/res/layout/item_view_pager.xml"
+    },
+    {
         "merged": "/Users/kouta/Desktop/kotlin/app/src/main/original/app/build/intermediates/res/merged/debug/drawable-ldrtl-xhdpi-v17_abc_ic_menu_cut_mtrl_alpha.png.flat",
         "source": "/Users/kouta/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/ec9843c96a640aeacfd1db7de12ec919/res/drawable-ldrtl-xhdpi-v17/abc_ic_menu_cut_mtrl_alpha.png"
     },
@@ -1152,6 +1156,10 @@
         "source": "/Users/kouta/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/ec9843c96a640aeacfd1db7de12ec919/res/drawable-mdpi-v4/abc_switch_track_mtrl_alpha.9.png"
     },
     {
+        "merged": "/Users/kouta/Desktop/kotlin/app/src/main/original/app/build/intermediates/res/merged/debug/drawable_tk.png.flat",
+        "source": "/Users/kouta/Desktop/kotlin/app/src/main/original/app/src/main/res/drawable/tk.png"
+    },
+    {
         "merged": "/Users/kouta/Desktop/kotlin/app/src/main/original/app/build/intermediates/res/merged/debug/layout_abc_action_bar_up_container.xml.flat",
         "source": "/Users/kouta/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/ec9843c96a640aeacfd1db7de12ec919/res/layout/abc_action_bar_up_container.xml"
     },
@@ -1368,6 +1376,10 @@
         "source": "/Users/kouta/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/01349149b5974d37e886d9f0836554ee/res/layout/notification_template_part_time.xml"
     },
     {
+        "merged": "/Users/kouta/Desktop/kotlin/app/src/main/original/app/build/intermediates/res/merged/debug/drawable_fruit_yuzu.png.flat",
+        "source": "/Users/kouta/Desktop/kotlin/app/src/main/original/app/src/main/res/drawable/fruit_yuzu.png"
+    },
+    {
         "merged": "/Users/kouta/Desktop/kotlin/app/src/main/original/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_textfield_search_default_mtrl_alpha.9.png.flat",
         "source": "/Users/kouta/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/ec9843c96a640aeacfd1db7de12ec919/res/drawable-xxhdpi-v4/abc_textfield_search_default_mtrl_alpha.9.png"
     },
@@ -1382,6 +1394,10 @@
     {
         "merged": "/Users/kouta/Desktop/kotlin/app/src/main/original/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_ic_commit_search_api_mtrl_alpha.png.flat",
         "source": "/Users/kouta/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/ec9843c96a640aeacfd1db7de12ec919/res/drawable-xhdpi-v4/abc_ic_commit_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/kouta/Desktop/kotlin/app/src/main/original/app/build/intermediates/res/merged/debug/layout_activity_1_2.xml.flat",
+        "source": "/Users/kouta/Desktop/kotlin/app/src/main/original/app/src/main/res/layout/activity_1_2.xml"
     },
     {
         "merged": "/Users/kouta/Desktop/kotlin/app/src/main/original/app/build/intermediates/res/merged/debug/color-v23_abc_btn_colored_borderless_text_material.xml.flat",
@@ -1486,6 +1502,10 @@
     {
         "merged": "/Users/kouta/Desktop/kotlin/app/src/main/original/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_btn_check_to_on_mtrl_015.png.flat",
         "source": "/Users/kouta/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/ec9843c96a640aeacfd1db7de12ec919/res/drawable-xxhdpi-v4/abc_btn_check_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "/Users/kouta/Desktop/kotlin/app/src/main/original/app/build/intermediates/res/merged/debug/drawable_bear.png.flat",
+        "source": "/Users/kouta/Desktop/kotlin/app/src/main/original/app/src/main/res/drawable/bear.png"
     },
     {
         "merged": "/Users/kouta/Desktop/kotlin/app/src/main/original/app/build/intermediates/res/merged/debug/drawable_notification_bg_low.xml.flat",

@@ -323,6 +323,24 @@
             <enum name="add" value="16"/>
         </attr></declare-styleable>
     <declare-styleable name="MenuView"><attr name="android:itemTextAppearance"/><attr name="android:horizontalDivider"/><attr name="android:verticalDivider"/><attr name="android:headerBackground"/><attr name="android:itemBackground"/><attr name="android:windowAnimationStyle"/><attr name="android:itemIconDisabledAlpha"/><attr format="boolean" name="preserveIconSpacing"/><attr format="reference" name="subMenuArrow"/></declare-styleable>
+    <declare-styleable name="PageIndicatorView"><attr name="piv_orientation">
+            <enum name="horizontal" value="0"/>
+            <enum name="vertical" value="1"/>
+        </attr><attr format="reference" name="piv_viewPager"/><attr format="integer" name="piv_select"/><attr format="integer" name="piv_count"/><attr format="boolean" name="piv_dynamicCount"/><attr format="dimension" name="piv_radius"/><attr format="dimension" name="piv_padding"/><attr format="dimension" name="piv_strokeWidth"/><attr format="float" name="piv_scaleFactor"/><attr format="boolean" name="piv_autoVisibility"/><attr format="color" name="piv_unselectedColor"/><attr format="color" name="piv_selectedColor"/><attr format="boolean" name="piv_interactiveAnimation"/><attr format="integer" name="piv_animationDuration"/><attr name="piv_animationType">
+            <enum name="none" value="0"/>
+            <enum name="color" value="1"/>
+            <enum name="scale" value="2"/>
+            <enum name="worm" value="3"/>
+            <enum name="slide" value="4"/>
+            <enum name="fill" value="5"/>
+            <enum name="thinWorm" value="6"/>
+            <enum name="drop" value="7"/>
+            <enum name="swap" value="8"/>
+        </attr><attr name="piv_rtl_mode">
+            <enum name="on" value="0"/>
+            <enum name="off" value="1"/>
+            <enum name="auto" value="2"/>
+        </attr></declare-styleable>
     <declare-styleable name="PlaybackControlView"><attr name="show_timeout"/><attr name="rewind_increment"/><attr name="fastforward_increment"/><attr name="repeat_toggle_modes"/><attr name="show_shuffle_button"/><attr name="controller_layout_id"/></declare-styleable>
     <declare-styleable name="PopupWindow"><attr format="boolean" name="overlapAnchor"/><attr name="android:popupBackground"/><attr name="android:popupAnimationStyle"/></declare-styleable>
     <declare-styleable name="PopupWindowBackgroundState"><attr format="boolean" name="state_above_anchor"/></declare-styleable>
@@ -497,6 +515,7 @@
     <item name="action_bar_spinner" type="id"/>
     <item name="action_menu_divider" type="id"/>
     <item name="action_menu_presenter" type="id"/>
+    <item name="dataBinding" type="id"/>
     <item name="exo_artwork" type="id"/>
     <item name="exo_content_frame" type="id"/>
     <item name="exo_controller" type="id"/>
@@ -518,11 +537,14 @@
     <item name="home" type="id"/>
     <item name="line1" type="id"/>
     <item name="line3" type="id"/>
+    <item name="onAttachStateChangeListener" type="id"/>
+    <item name="onDateChanged" type="id"/>
     <item name="progress_circular" type="id"/>
     <item name="progress_horizontal" type="id"/>
     <item name="split_action_bar" type="id"/>
     <item name="text" type="id"/>
     <item name="text2" type="id"/>
+    <item name="textWatcher" type="id"/>
     <item name="title" type="id"/>
     <item name="up" type="id"/>
     <integer name="abc_config_activityDefaultDur">220</integer>
